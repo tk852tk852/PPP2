@@ -6,6 +6,7 @@ namespace X
     void print()
     {
         std::cout << var << '\n'
+                  << '\n'
                   << '\n';
     }
 }
